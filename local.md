@@ -1,7 +1,7 @@
 # Gitとは
 - レポジトリという形でバージョン管理するためのコマンド
 
-<img src="image/directory_example.png" width="50%">
+<img src="image/directory_example.PNG" width="50%">
 
 - 上記の.gitディレクトリのことを「レポジトリ」とよぶ
 - レポジトリにはプロジェクトのあらゆる過去の状態が主に「コミット」という形で記録されている
